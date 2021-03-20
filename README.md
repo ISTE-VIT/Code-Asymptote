@@ -1,12 +1,11 @@
 <p align="center">
  <img src="https://user-images.githubusercontent.com/71590944/111881788-33353b80-89d8-11eb-9db1-746eba087b05.png" > <br>
- Indian Society For Technical Education           
+ Indian Society For Technical Education    
+ <img src="https://user-images.githubusercontent.com/71590944/111882051-63310e80-89d9-11eb-95ed-a6270b3d25f9.jpeg"> <br>
 </p>
 
-
 # Code-Asymptote
-<img src="https://user-images.githubusercontent.com/71590944/111882051-63310e80-89d9-11eb-95ed-a6270b3d25f9.jpeg"> <br>
->Repository for the workshop Code Aymptote<br>
+>Repository for the workshop Code Aymptote 
 <b>A one day workshop on Data Structures and Algorithms under Horizon'21 
 
 # Softwares Used
