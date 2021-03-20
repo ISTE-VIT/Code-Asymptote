@@ -7,10 +7,10 @@
 >Repository for the workshop Code Aymptote <br>
 <b>A one day workshop on Data Structures and Algorithms under Horizon'21 
 
-# Softwares Used
+## Softwares Used
   IDE for C++
 
-# Topics Covered
+## Topics Covered
   - The theory of basic Data Structutres
   - The working and applications of various Data Structures
   - Coding of functions in various Data Structures
