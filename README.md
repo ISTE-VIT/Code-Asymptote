@@ -20,5 +20,6 @@
   - Searching Algorithms
   - What is Dynamic Programming
   - Different methods used in Dynamic Programming
-
-#  Made with ❤️ by ISTE
+<p align="center">
+	With :heart: &nbsp;by <a href="https://istevit.in/" target="_blank">ISTE-VIT</a>
+</p>
